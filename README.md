@@ -2,7 +2,7 @@
 
 On 14 October 2026, we’ll retire Azure OpenAI On Your Data. After that date, requests that depend on this feature will no longer work. This retirement affects On Your Data, not the Azure OpenAI service as a whole. 
 
-As part of the service retired, this repository is being archived permanently. The repository will be deleted in November, once the service retires.
+As part of the service retirement, this repository is being archived permanently. The repository will be deleted in November, once the service retires.
 
 ## Action recommended 
 
